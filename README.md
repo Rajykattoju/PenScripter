@@ -14,4 +14,5 @@ Final test Accuracy is : 96.8 %
 ![image](https://github.com/Rajykattoju/PenScripter/assets/34054117/cb3f854a-6a87-461d-bc08-17687d20d331)
 
 ## Output
-![image](https://github.com/Rajykattoju/PenScripter/assets/34054117/dfbe17f2-f4a7-4e47-ade3-d9221a1ff0fc)
+![image](https://github.com/Rajykattoju/PenScripter/assets/34054117/303ce180-69f4-4d12-b8d0-558647761bad)
+
